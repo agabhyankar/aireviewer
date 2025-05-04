@@ -1,0 +1,8 @@
+python-dotenv
+GitPython
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-openai
+streamlit
